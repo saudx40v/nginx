@@ -1,2 +1,1 @@
-# nginx
-nginx
+# CI-CD-nginx
